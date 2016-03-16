@@ -6,4 +6,7 @@ git diff test.txt
 git log
 git reflog
 git reset --hard commit-id
+git checkout --file
+git reset head file
+git rm
 
