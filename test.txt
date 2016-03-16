@@ -3,4 +3,7 @@ git add files
 git commit -m 'learning git command'
 git status
 git diff test.txt
+git log
+git reflog
+git reset --hard commit-id
 
