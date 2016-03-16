@@ -1,3 +1,6 @@
-this is a test.
-second 
-third
+git init
+git add files
+git commit -m 'learning git command'
+git status
+git diff
+
